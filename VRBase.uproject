@@ -11,6 +11,10 @@
 				"Win64",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
